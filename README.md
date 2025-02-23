@@ -7,3 +7,4 @@
 抖音，快手，小红书，视频号，直播，企业官网的在线客服，企业微信，钉钉,等主流平台客户服务、获客！
 
 ![Freeipcc微信二维码-WechatIMG484](https://github.com/user-attachments/assets/16957cba-a0a3-4cf5-8f55-06413fa8d5dd)
+## 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！
