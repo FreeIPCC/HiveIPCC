@@ -8,4 +8,4 @@
 
 ![Freeipcc微信二维码-WechatIMG484](https://github.com/user-attachments/assets/16957cba-a0a3-4cf5-8f55-06413fa8d5dd)
 
-# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！
+# 😄价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！！
