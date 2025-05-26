@@ -1,5 +1,5 @@
 # HiveIPCC 多渠道呼叫中心
-全渠道呼叫中心，多渠道呼叫中心，Hive-Omni-IPCC,蜂群全渠道联络中心,蜂群全渠道客服中心,蜂群全渠道创客中心,Contact Center,Customer Create System，小蜜蜂!!!
+全渠道呼叫中心，多渠道呼叫中心，Hive-Omni-IPCC,蜂群全渠道联络中心,蜂群全渠道客服中心,蜂群全渠道创客中心,Contact Center,Customer Create System，小蜜蜂!
 
 愿景是：打造全渠道联络中心，目前还在持续迭代，欢迎更多研发人员参与！
 
@@ -53,6 +53,7 @@
 下图是随机抽取的需求对接的群：
 
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
+![image](https://github.com/user-attachments/assets/b21198f2-56ae-4520-8557-8cde420cb560)
 
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
