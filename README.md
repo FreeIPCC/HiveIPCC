@@ -48,13 +48,17 @@
 ![image](https://github.com/user-attachments/assets/b3579741-07f2-4f2d-936e-b97bfca38b17)
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
-## 😄用户专属群支持小组的群人员数量：10人左右，响应更及时
+## 😄每一个用户，都有专属群支持：10人左右，响应更及时
 
 下图是随机抽取的需求对接的群：
 
+![image](https://github.com/user-attachments/assets/9abb6028-239d-4e17-8314-e0f3258d2395)
+![image](https://github.com/user-attachments/assets/7c358cb1-aa9e-4279-9e09-9b53a2c63a61)
+![image](https://github.com/user-attachments/assets/51e22d52-9d81-4549-a699-4bbf81e21242)
+![image](https://github.com/user-attachments/assets/96fc0164-d3cd-4a7c-bb1c-9f2b49670ec3)
+![image](https://github.com/user-attachments/assets/d973ab28-f83b-4bdd-bf9e-3f0130811eaa)
 ![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/b21198f2-56ae-4520-8557-8cde420cb560)
-
+![image](https://github.com/user-attachments/assets/a9a519c1-02ba-455c-a53a-bb98de8551c5)
 ![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
 
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
