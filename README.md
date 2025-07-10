@@ -1,5 +1,5 @@
 # HiveIPCC 多渠道呼叫中心
-全渠道呼叫中心，多渠道呼叫中心，Hive-Omni-IPCC,蜂群全渠道联络中心,蜂群全渠道客服中心,蜂群全渠道创客中心,Contact Center,Customer Create System，小蜜蜂!!!!!!!!
+全渠道呼叫中心，多渠道呼叫中心，Hive-Omni-IPCC,蜂群全渠道联络中心,蜂群全渠道客服中心,蜂群全渠道创客中心,Contact Center,Customer Create System，小蜜蜂!
 
 # 愿景是：打造全渠道联络中心，目前还在持续迭代，欢迎更多研发人员参与！
 
@@ -34,12 +34,7 @@
 10.	社区支持与生态共建：建立一个活跃的开源社区，鼓励用户分享经验、提出需求、贡献代码，共同推动项目的持续发展与完善。我们相信，通过社区的力量，我们的开源呼叫中心将不断进化，成为客户服务领域的佼佼者！
 
 ![image](https://github.com/user-attachments/assets/604a9a46-edc8-4a1f-9f94-a5021f178101)
-![freeipcc14](https://github.com/user-attachments/assets/c1e5a412-6a38-48bc-bbad-2a129af562e7)
-![image](https://github.com/user-attachments/assets/e7fcb31f-530b-4b96-a6e3-e90fb9f5db60)
-![image](https://github.com/user-attachments/assets/52064c20-f502-423a-9546-b865aa2e11ff)
-![image](https://github.com/user-attachments/assets/b68d242e-ca19-4806-b84c-11239ee2d8f6)
 ![image](https://github.com/user-attachments/assets/11367dfa-22d2-4976-8ec8-6e3c51b84e46)
-![freeipcc15](https://github.com/user-attachments/assets/a9b20c37-2b29-4a92-b06a-af1fcc5c75ed)
 ![05-大模型呼叫中心-自助建工单-自助解决问题-拓扑简图01](https://github.com/user-attachments/assets/0b53f8b5-72f3-4f1f-82d4-cf50f60ad875)
 ![image](https://github.com/user-attachments/assets/8bfca84f-996f-4cb3-ae35-88918e99f8f7)
 ![image](https://github.com/user-attachments/assets/34ec0973-a012-47ae-b924-3d25a9c65c58)
@@ -56,16 +51,4 @@
 ![image](https://github.com/user-attachments/assets/c4f7ccb6-02b9-4345-aa53-a1898b2db04c)
 
 ## 😄每一个用户，都有专属群支持：10人左右，响应更及时
-
-下图是随机抽取的需求对接的群：
-
-![image](https://github.com/user-attachments/assets/9abb6028-239d-4e17-8314-e0f3258d2395)
-![image](https://github.com/user-attachments/assets/7c358cb1-aa9e-4279-9e09-9b53a2c63a61)
-![image](https://github.com/user-attachments/assets/51e22d52-9d81-4549-a699-4bbf81e21242)
-![image](https://github.com/user-attachments/assets/96fc0164-d3cd-4a7c-bb1c-9f2b49670ec3)
-![image](https://github.com/user-attachments/assets/d973ab28-f83b-4bdd-bf9e-3f0130811eaa)
-![image](https://github.com/user-attachments/assets/71abf504-db94-4618-ab35-725f5de8c8f8)
-![image](https://github.com/user-attachments/assets/a9a519c1-02ba-455c-a53a-bb98de8551c5)
-![image](https://github.com/user-attachments/assets/e28c4c61-9105-4461-ab68-988bcc14736c)
-
 # 😄再次表达一下价值观：我们坚信，软件只有被用起来，才能给用户带去价值，才能让自身产生迭代！！！
